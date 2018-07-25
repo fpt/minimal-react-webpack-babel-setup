@@ -14,8 +14,8 @@ Read more about it: [The Minimal React Webpack Babel Setup](https://www.robinwie
 
 ## Installation
 
-* `git clone git@github.com:rwieruch/minimal-react-webpack-babel-setup.git`
-* cd minimal-react-webpack-babel-setup
+* `git clone git@github.com:fpt/reenhance-components-babel-examples.git`
+* cd reenhance-components-babel-examples
 * npm install
 * npm start
 * visit `http://localhost:8080/`
