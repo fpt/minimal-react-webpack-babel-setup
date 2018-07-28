@@ -1,5 +1,5 @@
 {
-  "name": "minimal-react-webpack-babel-setup",
+  "name": "reenhance-components-babel-example",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -26,6 +26,7 @@
     "fetch-jsonp": "^1.1.3",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
-    "reenhance-components": "^0.1.4"
+    "reenhance-components": "^0.2.0",
+    "styled-components": "^3.3.3"
   }
 }
